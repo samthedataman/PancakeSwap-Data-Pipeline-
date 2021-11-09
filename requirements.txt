@@ -1,0 +1,10 @@
+os
+selenium
+pandas
+numpy
+requests
+bs4
+pygsheets
+gspread
+df2gspread
+oauth2client.service_account

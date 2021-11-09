@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poocoin-331423",
+  "private_key_id": "6227f4a5365e484f54ea83aa0893663c3e7d7f50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCemzf2j8AKHUCv\nVLqZt06LO6Q4edQpz9/z4u5VkuJwrzI7SM7cttJmw9I+XkrutS2OQHcYOdWHEcdS\nOFDFjRKQYJ2p49i/wrpSJA2mKkMsJ6Il2OBIqmnGB32awUc3xSUst1QU2ilAXFSk\nsBiIOKGh3GoZ0IqBNpwh1U7BVDVdHRtW0fBDE6Wf+iUf5Oe1QWijIGJWUQamFE3y\nLe2FguarOEPkkujCSzrHwWBpioju9zGH78jEb9ruN3/YfDoJg248RBA1Od0y/oyU\n+zNVXGSIdsvpRmBU0h9mdHm9Sn0h/tJ5qn6ii9/Zi8PkN4fTRlyqME+w2KwPF7Tr\no3GtRwVTAgMBAAECggEABFlIo6uCawBPZd0qEjwacgR39KPuPffH9jQTnrkLof/c\n0SBiEPjJPODlpNwi329ZGicinNKAmPj1SXbnbevEtImE1fcAa1oiS5G9f6qXpsau\n41fWkavB+NQuru+3mi4hPEajn2sC2PGVjNEa+xeXwIxCu/TdlTQRL1VdzBqyk+Bv\nm8HG+Z7wrlH/zjorlObhrm0O2ruOxoh+IbQ9uDXesbymyD+7Mql+Wg5W6p2R+dZL\nfnOfi9haYI5NWZ/CGv4T655pxMlCRr4LCrOt2Rk6jltG4lFsS/7ITTcqKTORkzmr\nEUyJwoKlYFHcN9r1e0k9lzoMGqA2W2GwJBTNGT/2kQKBgQDbZNKoBUKLCmUMekPg\n+2nLDXNejrqFdgqDSq+UGrh2Z72VgLs/nvq6ty73/yAIMf1I401evmRanUH2Ezrr\nkcSVRKC9pWWapfHWWQUfaCfcG/U4wWFCNWLsrgHYTFZwGuIKn93OpcGc5ylzn7ps\nxmxDputyW/Nh/7yG4pVNMNq79wKBgQC5Eeu+5WL7od7WUi+dCQF5Yhy2/gu4CH/P\nUW37P/7tO50G2x3tXr9OuNkVeqAs5roy4mtFYaK/kvwuUYxz24oyBcyI3pu7AAoy\nfZA4+HyrW7zyzEs0txJ/I5TapBbaigDHH8cMBbxuGX1+xUe/Tk1LHONmYclSNbhm\nouWqlfQShQKBgFLYCH+vtMfh/fQvOvB6nyEwjA75oE8DGscm7ZPkXyE+3STV/l7w\nvkbBIzg8GzFdBwJ96lpLVIOu/BhafJY1beDbkELscKhr3x0MclXAs8R2vitXQk2I\n8TjkIAg4Ey+zxwUyBsSgbLK9yzZA61llt734CtIdDJNFyT+50ZzbRM1TAoGBAJv9\nTe5GHCsqYc/V0AoVmCd+meNnt+rzRv8wjHn0k+PTlmQ79jqn3Kn2xgsDo9SU2Sag\nj3gYdnvw4RwNYkwZJJ9LIf3PXAW/X9j02sYaM8KffWBM76rMEAwXqpSrMBQds9Ai\nqbwpbYyDcbKTiAjob9+6xrT6AR2I6Beif+BLqkCdAoGBALa3YQz7kf6Rvufa+ja9\nOJP6ju+2t4h1jV+8Kh1Xus4FW36P8j6eoVSgWZWzDRzQcIbMJQx0DuqDycsdtldE\n0Fwn8d30GVcYyxEmKATtEnGRpr0iQUzC7L5RTCE9nsWXqaJgIwBs2UoF/VXw2hKf\nzP7x/e2yHS7sWHzq+aYnxRt0\n-----END PRIVATE KEY-----\n",
+  "client_email": "poocoinservice@poocoin-331423.iam.gserviceaccount.com",
+  "client_id": "112997055986792919645",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poocoinservice%40poocoin-331423.iam.gserviceaccount.com"
+}
