@@ -1,19 +1,13 @@
 # import nessicary packages
-# bro its "neccessary"
+
 from datetime import datetime
 import time
 import os
 import ast
 import json
-# from telebot import TeleBot
-# from dotenv import load_dotenv
-import selenium 
-from selenium import webdriver
 import pandas as pd
 import numpy as np
 import requests as r
-from bs4 import BeautifulSoup
-import undetected_chromedriver as uc
 import time
 import datetime
 import pygsheets
@@ -21,10 +15,7 @@ import gspread
 import df2gspread
 import requests as r
 from df2gspread import df2gspread as d2g
-from oauth2client.service_account import ServiceAccountCredentials
-from selenium.common.exceptions import NoSuchElementException        
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.options import Options
+
 
 #get google sheet credentials 
 scopes = ['https://www.googleapis.com/auth/spreadsheets', 
