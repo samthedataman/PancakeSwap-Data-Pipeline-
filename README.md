@@ -8,11 +8,11 @@ In addition to the top 1000 pairs the program also can ingest new token addresse
 
 KPI's Retrieved :
 
-Name (Name of Token)
-Symbol (Symbol of Token)
-Price (Price of token in $USD)
-Price_BNB (Price of token denotated in BNB)
-Token_address (Address of Specific Token)
+Name (Name of Token),
+Symbol (Symbol of Token),
+Price (Price of token in $USD),
+Price_BNB (Price of token denotated in BNB),
+Token_address (Address of Specific Token),
 Pancake_swap_time (time of request)
 
 Future updates to this program will include the addition of more API's such as the BSC scan API to allow for dyamic address P/l updates and token holdings by holder. As well as coin market caps and total supply KPI's to be added in the near future.
