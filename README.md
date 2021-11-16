@@ -20,7 +20,7 @@ KPI's Retrieved :
 
 6) Pancake_swap_time (time of request)
 
-7) Future updates to this program will include the addition of more API's such as the BscScan API to allow for dyamic address P/l updates and token holdings by holder.As well as coinmarket caps and total supply KPI's to be added in the near future.
+***Future updates to this program will include the addition of more API's such as the BscScan API to allow for dyamic address P/l updates and token holdings by holder. More updates will include token market capitilizations and token total supply metrics (These will be added in the near future)***
 
 Please note that the raw data coming from the uniswap api is not clean and data massaging was used to clean the raw data to present attrubutes such as token address by token.
 
