@@ -4,7 +4,7 @@ This program is a dynamic python request cyrptocurrency price engine hosted on a
 
 Its purpose is to provide users with an aggregate, live pricing data for the top 1000 bnb pairs leveraging the Pancakeswap API.
 
-In addition to the top 1000 pairs the program also can ingest new token addresses dynamically by user input into the google sheet making the the program modular for future coin releases.
+In addition to the top 1000 pairs the program also can ingest new token addresses dynamically by user input into the google sheet making the the program modular for future coin releases and for small marketcap coins that are hard to track on in an aggregated fashion on https://poocoin.app.
 
 KPI's Retrieved :
 
