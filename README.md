@@ -1,4 +1,4 @@
-# PooCoin Scraper
+# PancakeSwap Data Pipeline
 
 This program is a dynamic python request cyrptocurrency price engine hosted on an AWS EC2 cloud instance updating every ~ 1 minute.
 
